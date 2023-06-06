@@ -20,3 +20,7 @@ chmod +x showtempcpufreq.sh
 ```
 apt update && apt reinstall pve-manager
 ```
+## 脚本加速地址
+```
+wget https://cdn.jsdelivr.net/gh/KKISO574/PVE-@main/showtempcpufreq.sh && chmod +x showtempcpufreq.sh
+```
